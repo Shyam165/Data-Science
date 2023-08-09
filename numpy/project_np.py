@@ -24,7 +24,7 @@ import numpy as np
 # print(var5)
 
 # slicing 
-var4=np.array([(2,3,4), (3,4,5)])
+var4=np.array([(2,5,4), (3,4,5)])
 print(var4[0,1])
 print(var4[0:, 1])
 
