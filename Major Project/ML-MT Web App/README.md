@@ -7,7 +7,7 @@ This is a Machine Learning (ML) and Medical Technology (MT) web application that
 3. Heart Disease Prediction
 4. Lung Cancer Prediction
 5. Parkinson's Disease Detection
-6. 
+   
 In addition to these existing features, there are plans to expand the application to include two more disease prediction modules:
 
 1. Malaria Detection: Utilizing cell images for detecting malaria.
